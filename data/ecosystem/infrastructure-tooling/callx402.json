@@ -1,0 +1,7 @@
+{
+  "name": "callx402",
+  "description": "Open-source action layer for agentic commerce: diagnose, rescue, route, and execute x402 payments from one command. By Payload, powered by Veyline.",
+  "url": "https://github.com/Payloadhq/callx402",
+  "category": "infrastructure-tooling",
+  "logo": "/logos/callx402.png"
+}
