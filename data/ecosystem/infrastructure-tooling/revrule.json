@@ -1,0 +1,7 @@
+{
+  "name": "RevRule",
+  "description": "Computes who gets paid after an x402 payment: recoupment, revenue splits, thresholds as auditable entitlements. $99 one-time API.",
+  "url": "https://payloadhq.github.io/revrule-console/",
+  "category": "infrastructure-tooling",
+  "logo": "/logos/revrule.png"
+}
